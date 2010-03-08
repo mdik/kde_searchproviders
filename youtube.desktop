@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+Name=Youtube
+X-KDE-ServiceTypes=SearchProvider
+Keys=youtube,yt
+Query=http://www.youtube.com/results?search_query=\\{@}&search=Search
+Query[de]=http://de.youtube.com/results?search_query=\\{@}&search=Search
+Query[au]=http://au.youtube.com/results?search_query=\\{@}&search=Search
